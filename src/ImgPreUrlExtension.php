@@ -1,6 +1,6 @@
 <?php
 
-namespace Naba0123\CommonMark\Ext\ImgUrlPrefix;
+namespace Naba0123\CommonMarkExt\ImgUrlPrefix;
 
 use League\CommonMark\ConfigurableEnvironmentInterface;
 use League\CommonMark\Event\DocumentParsedEvent;
