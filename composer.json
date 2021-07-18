@@ -1,0 +1,14 @@
+{
+    "name": "naba0123/commonmark-ext-img-url-prefix",
+    "description": "Extension for league/commonmark to add prefix url to img with specitific distinction",
+    "require": {
+        "php" : "^7.4",
+        "league/commonmark": "^1.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Naba0123\\CommonMark\\Ext\\ImgUrlPrefix\\": "src/"
+        }
+    }
+}
