@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Naba0123\\CommonMark\\Ext\\ImgUrlPrefix\\": "src/"
+            "Naba0123\\CommonMark\\Ext\\ImgUrlPrefix\\": "src"
         }
     }
 }
