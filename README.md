@@ -26,3 +26,7 @@ The above is converted to Img tag as tha following
 ```
 <img src="/example/dir/path.jpg" alt="Alt Text">
 ```
+
+# Packagist
+
+https://packagist.org/packages/naba0123/commonmark-ext-img-url-prefix
