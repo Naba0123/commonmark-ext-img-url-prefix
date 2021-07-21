@@ -5,10 +5,19 @@
         "php" : "^7.4",
         "league/commonmark": "^1.3"
     },
+    "homepage": "https://github.com/Naba0123/commonmark-ext-img-url-prefix",
     "license": "MIT",
     "autoload": {
         "psr-4": {
             "Naba0123\\CommonMarkExt\\ImgUrlPrefix\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Naba0123\\CommonMarkExt\\ImgUrlPrefix\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
     }
 }
