@@ -24,7 +24,7 @@ $converter = new \League\CommonMark\CommonMarkConverter([
 echo $converter->convertToHtml('![Alt Text](path.jpg)');
 ```
 
-The above is converted to Img tag as tha following
+The above is converted to Img tag as the following
 ```
 <img src="/example/dir/path.jpg" alt="Alt Text">
 ```
